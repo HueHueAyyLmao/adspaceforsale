@@ -1,4 +1,4 @@
-import card_random
+#import card_random
 import random
 import itertools
 stake = input ("How much money would you like to put in : ")
